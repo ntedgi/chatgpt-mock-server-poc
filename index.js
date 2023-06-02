@@ -15,7 +15,6 @@ function buildPrompt(spec,request,size) {
         the response format is json with data property
         you need to return json with realistic data for this GET request ${request}
         dont return more than ${size} items dont return code
-
     `;
 }
 
